@@ -20,6 +20,6 @@ The features of our app:
 7. **Security and Privacy**: The app complies with privacy regulations and that all data, especially personal information, is securely handled and protected.
 
 
-## Getting Started
-The source code is provided.
-Also, the demo of the app is provided in "video.m4v"
+## Note:
+The source code is provided is "Codes" folder.
+The demo of the app is provided in "video.mp4"
