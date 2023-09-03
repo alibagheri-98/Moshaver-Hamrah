@@ -3,8 +3,8 @@ Konkur, an entrance exam in Iran with nearly one million participants, tradition
 <br>
 Flutter is an open-source UI software development kit created by Google.
 <br>
-The features of our app:
 
+## The features of the app:
 1. **User-Friendly Interface**: To ensure easy navigation for students and advisors.
 
 2. **Scheduling**: Allow both students and advisors to schedule advising sessions at their convenience. Implemented a calendar or booking system within the app.
